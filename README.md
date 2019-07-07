@@ -1,4 +1,5 @@
 # Short_Coding_Challenges
+Please only use python3.
 
 Some examples of coding challenge solutions.
 Please feel free to submit pull request or issues for any more solutions.
